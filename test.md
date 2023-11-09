@@ -1,3 +1,2 @@
 Hi, world!
 Hello!
-Hi!
